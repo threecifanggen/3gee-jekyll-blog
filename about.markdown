@@ -2,7 +2,7 @@
 layout: page
 title: "关于我"
 permalink: /about/
-navbar_title: About
+navbar_title: "关于我/联系我"
 ---
 
 这是3gee的博客，内容可能同时涵盖了「电影」[（过度解读）]({{ site.dir }} /categories/过度解读)、「计算机科学」[（λ & τ）](/categories/lambda-and-tau)、「哲学」[（哲·叠）](/categories/phold)。
