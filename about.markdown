@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于我"
+title: "关于我/联系我"
 permalink: /about/
 navbar_title: "关于我/联系我"
 ---
