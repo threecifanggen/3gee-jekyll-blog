@@ -29,6 +29,7 @@ url: "https://3gee.netlify.app" # the base hostname & protocol for your site, e.
 # twitter_username: jekyllrb
 instagram_username: threecifanggen
 github_username:  threecifanggen
+google_analytics: G-RSG4WDH608
 highlighter: rouge
 detach:  false
 port:    20201
