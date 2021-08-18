@@ -6,4 +6,3 @@ filter:
   - by_category: "lambda-and-tau"
 navbar_title: "λ & τ"
 ---
-
