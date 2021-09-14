@@ -45,6 +45,12 @@ mermaid: true
 plugins:
   - jekyll-feed
 
+valine_comment:
+  enable: true
+  leancloud_appid: qrAQjOGaeAWqza9Eb2aLJBg8-gzGzoHsz
+  leancloud_appkey: UYnglEGtJuNEqBaQwYmH8cPY
+  placeholder: "输入你的评论"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -62,3 +62,5 @@ Deleuze, Gilles. Cinema I: The Movement-Image. Bloomsbury Publishing, 2013.
 [德]韩炳哲. 时间的味道. [Duft der Zeit：Ein philosophischer Essay zur Kunst des Verweilens]. 哲学与生活丛书. 重庆: 重庆大学出版社, 2017.
 
 海德格尔. 时间概念史导论. [Prolegomena Zur Geschichte Des Zeitbegriffs]. Translated by 欧东明. 海德格尔文集. Edited by 孙周兴 and 王庆杰. Vol. 20, 北京: 商务印书馆, 2014.
+
+{% include comments.html %}
