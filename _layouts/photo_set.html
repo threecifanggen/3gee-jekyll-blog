@@ -15,14 +15,16 @@ layout: default
     </p>
 </blockquote>
 </article>
+
 <ul>
-  {% for i in (1..num) %}
+  {% for photo in page.photo_list %}
   <li>
-    <img src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <img src="{{ photo.url }}" alt="{{ photo.name }}">
   </li>
   <br/>
   {% endfor %}
 </ul>
+
 <div>
   <a href="{{ site.baseurl }}/photos/">浏览所有相册</a>
 </div>
