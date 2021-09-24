@@ -4,7 +4,7 @@ title:  "Python函数式编程系列003：一等公民"
 date:   2021-09-24 16:22:10 +0800
 category: "lambda-and-tau"
 usemathjax: true
-tags: ["Python", "函数式编程"]
+tags: ["Python", "函数式编程", "科里化"]
 ---
 
 ## 概述
