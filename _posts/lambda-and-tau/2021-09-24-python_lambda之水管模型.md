@@ -4,7 +4,7 @@ title:  "Python函数式编程系列002：水管模型和compose"
 date:   2021-09-24 13:54:03 +0800
 category: "lambda-and-tau"
 usemathjax: true
-tags: ["Python", "函数式编程", "递归"]
+tags: ["Python", "函数式编程"]
 ---
 
 ## 水管模型
@@ -94,3 +94,5 @@ def and_then(*args):
 ```
 
 不过在具体实现里，我们其实用到了作为参数的函数的概念，这个也是函数式编程中「函数是一等公民」的表现，具体各种水管模式（听起来我们是长胡子的法国水管工）我们将在下面的文章中一一展现。
+
+{% include comments.html %}
