@@ -41,6 +41,7 @@ theme: jekyll-theme-kagami
 mathjax: true
 markdown: kramdown
 mermaid: true
+color_scheme: murphy
 
 plugins:
   - jekyll-feed
