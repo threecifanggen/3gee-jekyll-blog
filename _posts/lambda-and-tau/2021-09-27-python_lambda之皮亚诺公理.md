@@ -17,7 +17,7 @@ tags: ["Python", "函数式编程", "递归"]
 
 > * (1) $$e \in S$$
 > * (2) $$(\forall a \in S)(f(a) \in S)$$
-> * (3) $$(\forall b \in S)(\forall a \in S)(f(b) = f(c) \rightarrow b = c)$$
+> * (3) $$(\forall b \in S)(\forall c \in S)(f(b) = f(c) \rightarrow b = c)$$
 > * (4) $$(\forall in S)(f(a) \ne e)$$
 > * (5) $$(\forall A \subseteq S)(((e \in A) \land (\forall a \in A)(f(a) \in A)) \rightarrow (A = S))$$
 
