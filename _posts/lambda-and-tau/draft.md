@@ -10,3 +10,8 @@ class _const:
 import sys
 sys.modules[__name__] = _const()
 ```
+
+```python
+def random_without_side_effect(seed=12343):
+    pass
+```
