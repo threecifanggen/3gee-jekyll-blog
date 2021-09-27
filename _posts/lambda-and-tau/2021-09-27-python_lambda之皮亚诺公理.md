@@ -18,7 +18,7 @@ tags: ["Python", "函数式编程", "递归"]
 > * (1) $$e \in S$$
 > * (2) $$(\forall a \in S)(f(a) \in S)$$
 > * (3) $$(\forall b \in S)(\forall c \in S)(f(b) = f(c) \rightarrow b = c)$$
-> * (4) $$(\forall in S)(f(a) \ne e)$$
+> * (4) $$(\forall \in S)(f(a) \ne e)$$
 > * (5) $$(\forall A \subseteq S)(((e \in A) \land (\forall a \in A)(f(a) \in A)) \rightarrow (A = S))$$
 
 * (1) 表示我们需要一个初始值，来表述我们可以从第一个东西开始数数，在这个符号集里叫$$e$$。对应于自然数的「1」的概念。
