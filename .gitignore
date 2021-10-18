@@ -8,3 +8,6 @@ vendor
 
 .fake
 .ionide
+
+.pytest_cache
+.metals
