@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Python函数式编程系列011：类实现的列表"
-date:   2021-10-20 16:40:30 +0800
+title:  "Python函数式编程系列011：惰性列表之类实现的列表"
+date:   2021-10-20 16:07:30 +0800
 category: "lambda-and-tau"
 usemathjax: true
 tags: ["Python", "函数式编程", "类型", "面向对象"]
