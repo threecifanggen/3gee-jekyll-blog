@@ -155,7 +155,7 @@ def find_a_in_lazylist(f, lls, a):
 
 本章回顾了利用`Python`自带的生成器、迭代器实现惰性列表，并展示如何运用这些概念做一些数据操作应用。当然在其中，我们要深刻感受到，函数式编程与数据是非常亲近的，它关注数据胜于项目结构，这点和对象式编程非常不同。大部分对象式编程的教程倾向于概述分层、结构这些概念，真是因为这个是对象式编程擅长的地方。
 
-在我实现的教学项目[`fppy`(点击这里千万`github`)](https://github.com/threecifanggen/python-functional-programming)中，我用内置的`python`模块实现了一个`LazyList`类，用它可以用链式写法完成上面的所有例子:
+在我实现的教学项目[`fppy`(点击这里前往`github`)](https://github.com/threecifanggen/python-functional-programming)中，我用内置的`python`模块实现了一个`LazyList`类，用它可以用链式写法完成上面的所有例子:
 
 ```python
 power1 = lambda x, n: LazyList.from_iter(x)(lambda xx: x * x).take(n).last
