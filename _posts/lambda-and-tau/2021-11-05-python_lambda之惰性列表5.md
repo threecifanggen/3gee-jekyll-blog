@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python函数式编程系列013：数据流"
+title:  "Python函数式编程系列013：流式处理"
 date:   2021-11-05 10:00:30 +0800
 category: "lambda-and-tau"
 usemathjax: true
