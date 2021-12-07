@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python函数式编程系列014：函数性质之优化"
+title:  "Python函数式编程系列014：基于性质测试"
 date:   2021-12-07 15:31:30 +0800
 category: "lambda-and-tau"
 usemathjax: true
