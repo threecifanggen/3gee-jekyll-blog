@@ -11,3 +11,4 @@ vendor
 
 .pytest_cache
 .metals
+.vscode
