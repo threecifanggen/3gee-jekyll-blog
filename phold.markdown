@@ -1,5 +1,5 @@
 ---
-permalink: /categories/phold
+permalink: /categories/phold.html
 title: "哲·叠 - 专栏"
 layout: post-list
 filter:

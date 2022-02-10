@@ -9,9 +9,9 @@ navbar_title: "关于我/联系我"
 
 这是3gee的博客，内容可能同时涵盖了:
 
-- 「电影」[（过度解读）]({{ site.dir }} /categories/过度解读)
-- 「计算机科学」[（λ & τ）](/categories/lambda-and-tau)
-- 「哲学」[（哲·叠）](/categories/phold)
+- 「电影」[（过度解读）]({{ site.dir }} /categories/过度解读.html)
+- 「计算机科学」[（λ & τ）](/categories/lambda-and-tau.html)
+- 「哲学」[（哲·叠）](/categories/phold.html)
 - 一个我的[摄影集](/photos)
 
 当然，这些也是我主要的兴趣和工作方向。喜欢内省地发掘自己和事情，是个标准的柏拉图主义者。有些时候显得神秘兮兮，有些时候像个孩子。最近在钻研**厨艺**、**物理治疗**，希望最后也能在此分享出来。

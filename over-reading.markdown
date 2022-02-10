@@ -1,5 +1,5 @@
 ---
-permalink: /categories/过度解读
+permalink: /categories/过度解读.html
 title: "过度解读 - 专栏"
 layout: post-list
 filter:
